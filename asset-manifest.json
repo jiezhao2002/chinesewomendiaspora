@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chinesewomendiaspora/static/css/main.f855e6bc.css",
+    "main.js": "/chinesewomendiaspora/static/js/main.58933b24.js",
+    "static/js/952.1ac2e5a2.chunk.js": "/chinesewomendiaspora/static/js/952.1ac2e5a2.chunk.js",
+    "static/js/453.ab540493.chunk.js": "/chinesewomendiaspora/static/js/453.ab540493.chunk.js",
+    "index.html": "/chinesewomendiaspora/index.html",
+    "main.f855e6bc.css.map": "/chinesewomendiaspora/static/css/main.f855e6bc.css.map",
+    "main.58933b24.js.map": "/chinesewomendiaspora/static/js/main.58933b24.js.map",
+    "952.1ac2e5a2.chunk.js.map": "/chinesewomendiaspora/static/js/952.1ac2e5a2.chunk.js.map",
+    "453.ab540493.chunk.js.map": "/chinesewomendiaspora/static/js/453.ab540493.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.58933b24.js"
+  ]
+}
